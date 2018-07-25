@@ -1,1 +1,1 @@
-# bc1-w1
+Bootcamp 1. Week 1. Assignment 1.
